@@ -1,0 +1,15 @@
+// MIN min( (Ak), ((Ad)) ) -> Ak
+
+ROZKAZ MIN;
+czyt wys wei il;
+
+wyad wea;
+czyt wys weja ode weak;
+
+JEZELI Z TO @acc GDY NIE @s;
+
+@acc wys weja dod weak
+     wyl wea KONIEC;
+
+@s   wys weja przep weak
+     wyl wea KONIEC;

@@ -1,0 +1,20 @@
+// DIS 
+// (Ak) – 1 -> Ak;
+// if (Ak) < 0 then (Ad)-> L else (L)+1 -> L
+
+ROZKAZ DIS;
+
+czyt wys wei il;
+                                                        
+wyl as weja dod weak wes il;
+wyl as weja ode weak;
+wys as wel;
+
+
+JEZELI Z TO @jump GDY NIE @cont;
+
+@jump wyad wel wea KONIEC;
+
+@cont il; 
+      wyl wea KONIEC;
+
